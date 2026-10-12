@@ -1,0 +1,9 @@
+Dataset: OxfordIIIT PET
+Google Co-Lab:
+https://colab.research.google.com/drive/1QyC4XD0Ji1jaT
+_
+kS2vp1GUIP1GIgN3BQ#scrollTo
+=qEgkgzNVL9
+4
+_
+Github: https://github.com/theaxisofresistance/oxfordiiit-pet-analyze
